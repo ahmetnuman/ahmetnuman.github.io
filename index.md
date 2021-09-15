@@ -24,6 +24,8 @@ layout: home
 
 ## F5 Ltm
 
+[Dynamic Ratio Load Balancing](https://ahmetnuman.github.io/f5-bigip/2021/08/01/Dynamic-Ratio-Load-Balancing.html)
+
 ---
 
 ## Suricata 
