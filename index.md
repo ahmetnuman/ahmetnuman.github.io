@@ -30,10 +30,10 @@ layout: home
 
 ### F5-BigIP - Kubernetes Integration
 
-- 1. [Installing Docker](https://ahmetnuman.github.io/f5-bigip/docker/2021/01/13/Docker-Installation.html)
-- 2. [Installing Kubernetes Cluster](https://ahmetnuman.github.io/f5-bigip/kubernetes/2021/01/13/Kuberbetes-Cluster-Installation.html)
-- 3. [Installing F5 Container Ingress Service](https://ahmetnuman.github.io/f5-bigip/cis/2021/01/15/Installing-F5-Container-Ingress-Service.html)
-- 4. [F5 Container Connector Usage](https://ahmetnuman.github.io/f5-bigip/cis/2021/01/15/Usage-F5-Container-Ingress-Service.html)
+- [Installing Docker](https://ahmetnuman.github.io/f5-bigip/docker/2021/01/13/Docker-Installation.html)
+- [Installing Kubernetes Cluster](https://ahmetnuman.github.io/f5-bigip/kubernetes/2021/01/13/Kuberbetes-Cluster-Installation.html)
+- [Installing F5 Container Ingress Service](https://ahmetnuman.github.io/f5-bigip/cis/2021/01/15/Installing-F5-Container-Ingress-Service.html)
+- [F5 Container Connector Usage](https://ahmetnuman.github.io/f5-bigip/cis/2021/01/15/Usage-F5-Container-Ingress-Service.html)
 
 ---
 
