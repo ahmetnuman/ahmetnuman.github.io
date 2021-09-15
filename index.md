@@ -8,6 +8,9 @@ Ahmet Numan Aytemiz's Blog Pages
 
 [Dynamic Routing Labs](https://ahmetnuman.github.io/routing/dynamicrouting/2021/09/01/Dynamic-Routing-Lab.html)
 
+[Dynamic Routing Solutions](https://ahmetnuman.github.io/routing/dynamicrouting/2021/09/01/Dynamic-Routing-Solutions.html)
+
+
 ---
 
 ### Cisco Switching Topics
