@@ -24,7 +24,7 @@ layout: home
 
 ## F5 Ltm
 
-[Dynamic Ratio Load Balancing](https://ahmetnuman.github.io/f5-bigip/f5-ltm/2021/03/19/f5-upgrade.html)
+[Dynamic Ratio Load Balancing](https://ahmetnuman.github.io/f5-bigip/f5-ltm/2021/08/01/Dynamic-Ratio-Load-Balancing.html)
 
 [F5 Ltm Upgrade From 14.1.2.6 to 14.1.4](https://ahmetnuman.github.io/f5-bigip/f5-ltm/2021/03/19/f5-upgrade.html)
 
