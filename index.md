@@ -39,6 +39,12 @@ layout: home
 
 ## Suricata 
 
+1. [Installing Suricata on Ubuntu 18.04](https://ahmetnuman.github.io/suricata/suricata/2021/02/06/Installing-Suricata-on-Ubuntu.html)
+2. [Capture First Packet With Suricata](https://ahmetnuman.github.io/suricata/suricata/2021/02/06/Capture-First-Packet.html)
+3. [Installing Emerging Threats Rule](https://ahmetnuman.github.io/suricata/suricata/2021/02/07/Installing-Emerging-Threats-Rule.html)
+4. [Evaluating Suricata Output](https://ahmetnuman.github.io/suricata/suricata/2021/02/07/Evaluating-Suricata-Output.html)
+5. [Custom HTTP Logging](https://ahmetnuman.github.io/suricata/suricata/2021/02/07/Custom-HTTP-Logging.html)
+
 ---
 
 ## Palo Alto Firewall
