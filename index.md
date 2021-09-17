@@ -32,7 +32,7 @@ layout: home
 
 ---
 
-## <span style="color:red">Suricata<span> ]
+## <span style="color:red">Suricata<span>
 1. [Installing Suricata on Ubuntu 18.04](https://ahmetnuman.github.io/suricata/suricata/2021/02/06/Installing-Suricata-on-Ubuntu.html)
 2. [Capture First Packet With Suricata](https://ahmetnuman.github.io/suricata/suricata/2021/02/06/Capture-First-Packet.html)
 3. [Installing Emerging Threats Rule](https://ahmetnuman.github.io/suricata/suricata/2021/02/07/Installing-Emerging-Threats-Rule.html)
@@ -45,7 +45,7 @@ layout: home
 
 #### <span style="color:blue">Palo Alto Getting Started<span>
 
-1. [Introduction to Firewall](https://ahmetnuman.github.io/palo-alto-firewall/2021/02/09/Introduction-to-Firewall.html])
+1. [Introduction to Firewall](https://ahmetnuman.github.io/palo-alto-firewall/2021/02/09/Introduction-to-Firewall.html)
 2. [Palo Alto Next Generation Firewall](https://ahmetnuman.github.io/palo-alto-firewall/2021/02/10/Palo-Alto-Next-Generation-Firewall.html)
 3. [Initializing Palo Alto Firewall](https://ahmetnuman.github.io/palo-alto-firewall/2021/02/10/Initializing-Palo-Alto-Firewall.html)
 4. [Lab Intro](https://ahmetnuman.github.io/palo-alto-firewall/2021/02/10/Lab-Intro.html)
