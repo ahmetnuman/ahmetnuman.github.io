@@ -9,14 +9,16 @@ layout: home
 - [DMVPN](https://ahmetnuman.github.io/routing/dmvpn/2021/12/08/DMVPN.html)
 - [Dynamic Routing Labs](https://ahmetnuman.github.io/routing/dynamicrouting/2021/09/01/Dynamic-Routing-Lab.html)
 - [Dynamic Routing Solutions](https://ahmetnuman.github.io/routing/dynamicrouting/2021/09/01/Dynamic-Routing-Solutions.html)
-- [Hot Standby Routing Protocol Overview](https://ahmetnuman.github.io/routing/hsrp/2021/09/23/hsrp-overview.html)
-- [HSRP Lab](https://ahmetnuman.github.io/routing/hsrp/2021/09/23/hsrp-lab.html)
 
 ---
 
 ## <span style="color:red">Cisco Switching<span>
 
 - [DHCP Snooping and IP Source Guard](https://ahmetnuman.github.io/switching/dhcpsnooping/2021/09/12/Dhcp-Snoop-Ipsource.html)
+- [Hot Standby Routing Protocol Overview](https://ahmetnuman.github.io/routing/hsrp/2021/09/23/hsrp-overview.html)
+- [HSRP Lab](https://ahmetnuman.github.io/routing/hsrp/2021/09/23/hsrp-lab.html)
+- [VRRP Overview](https://ahmetnuman.github.io/routing/vrrp/2021/09/25/vrrp-overview.html)
+- [VRRP Lab](https://ahmetnuman.github.io/routing/vrrp/2021/09/25/vrrp-lab.html)
 
 ---
 
