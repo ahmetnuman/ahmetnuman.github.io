@@ -19,6 +19,8 @@ layout: home
 - [HSRP Lab](https://ahmetnuman.github.io/routing/hsrp/2021/09/23/hsrp-lab.html)
 - [VRRP Overview](https://ahmetnuman.github.io/routing/vrrp/2021/09/25/vrrp-overview.html)
 - [VRRP Lab](https://ahmetnuman.github.io/routing/vrrp/2021/09/25/vrrp-lab.html)
+- [GLBP Overview](https://ahmetnuman.github.io/routing/glbp/2021/09/26/glbp-verview.html)
+- [GLBP Lab](https://ahmetnuman.github.io/routing/glbp/2021/10/03/glbp-lab.html)
 
 ---
 
