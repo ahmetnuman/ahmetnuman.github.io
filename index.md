@@ -6,8 +6,8 @@ layout: home
 
 ## <span style="color:red">High Availability of Various Vendors<span>
 
-- [Palo Alto Firewall HA Overview](https://ahmetnuman.github.io/high-availability/highavailability/2021/03/10/Palo-Alto-HA-Overview.html)
-- [Palo Alto Firewall HA Lab](https://ahmetnuman.github.io/high-availability/highavailability/2021/03/10/Palo-Alto-HA-LAb.html)
+- [Palo Alto Firewall HA Overview](https://ahmetnuman.github.io/high-availability/highavailability/2021/10/03/Palo-Alto-HA-Overview.html)
+- [Palo Alto Firewall HA Lab](https://ahmetnuman.github.io/high-availability/highavailability/2021/10/03/Palo-Alto-HA-LAb.html)
 
 
 ## <span style="color:red">Cisco Routing<span>
