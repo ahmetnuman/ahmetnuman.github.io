@@ -2,7 +2,7 @@
 layout: home
 ---
 
-> Ahmet Numan Aytemiz's Blog Pages
+> Ahmet Numan Aytemiz's Blogs and Labs
 
 ## <span style="color:red">Cisco Routing<span>
 
