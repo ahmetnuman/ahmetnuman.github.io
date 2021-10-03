@@ -6,21 +6,8 @@ layout: home
 
 ## <span style="color:red">High Availability of Various Vendors<span>
 
-- [Palo Alto Firewall HA Overview]()
-- [Palo Alto Firewall HA Lab]()
-- [Fortigate Firewall HA Overview]()
-- [Fortigate Firewall HA Lab]()
-- [Cisco ASA HA Overview]()
-- [Cisco ASA HA Lab]()
-- [Checkpoint HA Overview]()
-- [Checkpoint HA LAB]()
-- [Juniper SRX HA Overview]()
-- [Juniper SRX HA Lab]()
-- [F5 Bigip HA Overview]()
-- [F5 Bigip HA Lab]()
-- [A10 Thunder HA Overview]()
-- [A10 Thunder HA Lab]()
-
+- [Palo Alto Firewall HA Overview](https://ahmetnuman.github.io/high-availability/highavailability/2021/03/10/Palo-Alto-HA-Overview.html)
+- [Palo Alto Firewall HA Lab](https://ahmetnuman.github.io/high-availability/highavailability/2021/03/10/Palo-Alto-HA-LAb.html)
 
 
 ## <span style="color:red">Cisco Routing<span>
