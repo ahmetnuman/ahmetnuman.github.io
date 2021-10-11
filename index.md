@@ -24,6 +24,9 @@ layout: home
 - [Overview of iBGP and eBGP](https://ahmetnuman.github.io/routing/bgp/2021/10/10/overview-of-ibgp-and-ebgp.html)
 - [eBGP Neighbourship Requirements](https://ahmetnuman.github.io/routing/bgp/2021/10/10/ebgp-requirements.html)
 - [eBGP Form Neighbourship Lab](https://ahmetnuman.github.io/routing/bgp/2021/10/10/ebgp-form-neighbourship-lab.html)
+- [Bgp Update Source and Multi-Hop Requiremets](https://ahmetnuman.github.io/routing/bgp/2021/10/11/bgp-update-source-and-multi-hop.html)
+- [Bgp Update Source and Multi-Hop Lab](https://ahmetnuman.github.io/routing/bgp/2021/10/11/bgp-update-source-multi-hop-lab.html)
+- [iBGP Neighbourship Requirements, Configuration and lab](https://ahmetnuman.github.io/routing/bgp/2021/10/11/ibgp-neighborship-requirements-and-lab.html)
 
 ---
 
