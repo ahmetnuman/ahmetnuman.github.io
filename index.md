@@ -22,11 +22,13 @@ layout: home
 
 - [Introduction to BGP](https://ahmetnuman.github.io/routing/bgp/2021/10/10/introduction-to-bgp.html)
 - [Overview of iBGP and eBGP](https://ahmetnuman.github.io/routing/bgp/2021/10/10/overview-of-ibgp-and-ebgp.html)
-- [eBGP Neighbourship Requirements](https://ahmetnuman.github.io/routing/bgp/2021/10/10/ebgp-requirements.html)
-- [eBGP Form Neighbourship Lab](https://ahmetnuman.github.io/routing/bgp/2021/10/10/ebgp-form-neighbourship-lab.html)
+- [eBGP Neighborship Requirements](https://ahmetnuman.github.io/routing/bgp/2021/10/10/ebgp-requirements.html)
+- [eBGP Form Neighborship Lab](https://ahmetnuman.github.io/routing/bgp/2021/10/10/ebgp-form-neighbourship-lab.html)
 - [Bgp Update Source and Multi-Hop Requiremets](https://ahmetnuman.github.io/routing/bgp/2021/10/11/bgp-update-source-and-multi-hop.html)
 - [Bgp Update Source and Multi-Hop Lab](https://ahmetnuman.github.io/routing/bgp/2021/10/11/bgp-update-source-multi-hop-lab.html)
-- [iBGP Neighbourship Requirements, Configuration and lab](https://ahmetnuman.github.io/routing/bgp/2021/10/11/ibgp-neighborship-requirements-and-lab.html)
+- [iBGP Neighborship Requirements, Configuration and lab](https://ahmetnuman.github.io/routing/bgp/2021/10/11/ibgp-neighborship-requirements-and-lab.html)
+- [BGP Neighbor States](https://ahmetnuman.github.io/routing/bgp/2021/10/18/bgp-neighbor-states.html)
+- [BGP Message Types](https://ahmetnuman.github.io/routing/bgp/2021/10/21/bgp-message-types.html)
 
 ---
 
