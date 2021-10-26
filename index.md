@@ -28,7 +28,8 @@ layout: home
 - [Bgp Update Source and Multi-Hop Lab](https://ahmetnuman.github.io/routing/bgp/2021/10/11/bgp-update-source-multi-hop-lab.html)
 - [iBGP Neighborship Requirements, Configuration and lab](https://ahmetnuman.github.io/routing/bgp/2021/10/11/ibgp-neighborship-requirements-and-lab.html)
 - [BGP Neighbor States](https://ahmetnuman.github.io/routing/bgp/2021/10/18/bgp-neighbor-states.html)
-- [BGP Message Types](https://ahmetnuman.github.io/routing/bgp/2021/10/21/bgp-message-types.html)
+- [BGP Message Types, BGP Tables and BGP Routes](https://ahmetnuman.github.io/routing/bgp/2021/10/21/bgp-message-types.html)
+- [BGP As Path Attribute](https://ahmetnuman.github.io/routing/bgp/2021/10/25/bgp-as-path-attirbute.html)
 
 ---
 
