@@ -30,6 +30,7 @@ layout: home
 - [BGP Neighbor States](https://ahmetnuman.github.io/routing/bgp/2021/10/18/bgp-neighbor-states.html)
 - [BGP Message Types, BGP Tables and BGP Routes](https://ahmetnuman.github.io/routing/bgp/2021/10/21/bgp-message-types.html)
 - [BGP As Path Attribute](https://ahmetnuman.github.io/routing/bgp/2021/10/25/bgp-as-path-attirbute.html)
+- [BGP AS Path Attribute Lab 1](https://ahmetnuman.github.io/routing/bgp/2021/10/27/bgp-as-path-lab.html)
 
 ---
 
