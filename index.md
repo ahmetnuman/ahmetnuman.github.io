@@ -31,6 +31,7 @@ layout: home
 - [BGP Message Types, BGP Tables and BGP Routes](https://ahmetnuman.github.io/routing/bgp/2021/10/21/bgp-message-types.html)
 - [BGP As Path Attribute](https://ahmetnuman.github.io/routing/bgp/2021/10/25/bgp-as-path-attirbute.html)
 - [BGP AS Path Attribute Lab 1](https://ahmetnuman.github.io/routing/bgp/2021/10/27/bgp-as-path-lab.html)
+- [Injecting Routes Into BGP](https://ahmetnuman.github.io/routing/bgp/2021/10/29/injecting-routes-into-bgp.html)
 
 ---
 
