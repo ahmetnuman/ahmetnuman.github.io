@@ -4,7 +4,7 @@ layout: home
 
 > Ahmet Numan Aytemiz's Blogs and Labs
 
-## <span style="color:red">High Availability of Various Vendors<span>
+## <span style="color:red">Vulnerabilites and Exploits<span>
 
 - [Creating CVE-2021-44228 Log4j Vuln Labs](https://ahmetnuman.github.io/f5-bigip/cve-vulns/2021/12/12/CVE-2021-44228.html)
 
