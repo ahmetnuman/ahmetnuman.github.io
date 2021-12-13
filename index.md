@@ -6,6 +6,11 @@ layout: home
 
 ## <span style="color:red">High Availability of Various Vendors<span>
 
+- [Creating CVE-2021-44228 Log4j Vuln Labs](https://ahmetnuman.github.io/f5-bigip/cve-vulns/2021/12/12/CVE-2021-44228.html)
+
+
+## <span style="color:red">High Availability of Various Vendors<span>
+
 - [Palo Alto Firewall HA Overview](https://ahmetnuman.github.io/high-availability/highavailability/2021/10/03/Palo-Alto-HA-Overview.html)
 - [Palo Alto Firewall HA Active/Passive Lab](https://ahmetnuman.github.io/high-availability/highavailability/2021/10/03/Palo-Alto-HA-LAb.html)
 - [Fortigate Firewall HA Overview](https://ahmetnuman.github.io/high-availability/highavailability/2021/10/04/Fortigate-HA-Overview.html)
