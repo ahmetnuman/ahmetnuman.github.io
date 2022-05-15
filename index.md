@@ -23,7 +23,7 @@ layout: home
 - [Dynamic Routing Labs](https://ahmetnuman.github.io/routing/dynamicrouting/2021/09/01/Dynamic-Routing-Lab.html)
 - [Dynamic Routing Solutions](https://ahmetnuman.github.io/routing/dynamicrouting/2021/09/01/Dynamic-Routing-Solutions.html)
 
-#### <span style="color:red">Border Gateway Protocol<span>
+#### <span style="color:red">EIGRP<span>
 
 - [EIGRP Introduction](https://ahmetnuman.github.io/routing/bgp/2022/05/15/EIGRP-Introduction.html)
 
