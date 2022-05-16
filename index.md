@@ -26,6 +26,7 @@ layout: home
 #### <span style="color:red">EIGRP<span>
 
 - [EIGRP Introduction](https://ahmetnuman.github.io/routing/bgp/2022/05/15/EIGRP-Introduction.html)
+- [EIGRP Basic Configuration](https://ahmetnuman.github.io/routing/eigrp/2022/05/16/EIGRP-Basic-Configuration.html)
 
 #### <span style="color:red">Border Gateway Protocol<span>
 
