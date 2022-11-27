@@ -6,6 +6,22 @@ layout: home
 
 ## <span style="color:red">Blue Team<span>
 
+**Linux For Blue Team**
+
+- [About this course]()
+- [Introduction to Linux]()
+- [Linux File System Hierarchy]()
+- [Basic Terminal Commands - 1]()
+- [Basic Terminal Commands - 2]()
+- [Permissions Management]()
+- [User Management and Groups]()
+- [Archive File Formats]()
+- [Process Management]()
+- [Network Management]()
+- [Package Management]()
+- [Service Management]()
+- [Scheduled Tasks]()
+
 **Hacked Web Server Analysis**
 - [Introduction to Hacked Web Server Analysis](https://ahmetnuman.github.io/blue-team/2022/11/25/introduction-to-hacker-web-server-analysis.html)
 - [Log Analysis on Web Servers](https://ahmetnuman.github.io/blue-team/2022/11/25/log-analyses-on-web-servers.html)
