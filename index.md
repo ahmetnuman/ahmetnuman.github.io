@@ -6,21 +6,17 @@ layout: home
 
 ## <span style="color:red">Blue Team<span>
 
-**Linux For Blue Team**
+**Web Attacks 101**
 
-- [About this course]()
-- [Introduction to Linux]()
-- [Linux File System Hierarchy]()
-- [Basic Terminal Commands - 1]()
-- [Basic Terminal Commands - 2]()
-- [Permissions Management]()
-- [User Management and Groups]()
-- [Archive File Formats]()
-- [Process Management]()
-- [Network Management]()
-- [Package Management]()
-- [Service Management]()
-- [Scheduled Tasks]()
+- [Introduction to Web Attack 101]()
+- [Why Detecting Web Attacks Important]()
+- [OWASP]()
+- [How Web Applications Work]()
+- [Detecting SQL Injection Attacks]()
+- [Detecting Cross Site Scripting (XSS) Attacks]()
+- [Detecting Command Injection Attacks]()
+- [Detecting Insecure Direct Object Reference (IDOR) Attacks]()
+- [Detecting RFI & LFI Attacks]()
 
 **Hacked Web Server Analysis**
 - [Introduction to Hacked Web Server Analysis](https://ahmetnuman.github.io/blue-team/2022/11/25/introduction-to-hacker-web-server-analysis.html)
@@ -31,7 +27,7 @@ layout: home
 - [Vulnerabilities in Programming Language](https://ahmetnuman.github.io/blue-team/2022/11/25/vulnerabilities-in-programming-language.html)
 - [Discovering the Web Shell](https://ahmetnuman.github.io/blue-team/2022/11/26/discovering-the-web-shell.html)
 - [Hacked Web Server Analysis Example](https://ahmetnuman.github.io/blue-team/2022/11/26/hacked-web-server-analysis-example.html)
-- []()
+
 
 ## <span style="color:red">Citrix Netscaler<span>
 
