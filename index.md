@@ -4,11 +4,7 @@ layout: home
 
 > Ahmet Numan Aytemiz's Blogs and Labs
 
-## <span style="color:red">Blue Team<span>
-
-## <span style="color:red">Citrix Netscaler<span>
-
-- [Netscaler Basic Networking 1](https://ahmetnuman.github.io/netscaler-adc/2022/11/21/Netscaler-Basic-Networking.html)
+## <span style="color:red">THM Offensive Pentesting Learning Path<span>
 
 ## <span style="color:red">Vulnerabilites and Exploits<span>
 
