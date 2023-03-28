@@ -6,7 +6,8 @@ layout: home
 
 ## <span style="color:red">THM Offensive Pentesting Learning Path<span>
 
-- [Advanced Exploitation]()
+- [Advanced Exploitation](https://ahmetnuman.github.io/thm-offensive-pentesting/2023/03/28/advanced-exploitation.html)
+    - [Steel Mountain](https://ahmetnuman.github.io/thm-offensive-pentesting/2023/03/28/steel-mountain.html)
 
 
 ## <span style="color:red">Vulnerabilites and Exploits<span>
