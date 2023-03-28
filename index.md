@@ -6,6 +6,9 @@ layout: home
 
 ## <span style="color:red">THM Offensive Pentesting Learning Path<span>
 
+- [Advanced Exploitation]()
+
+
 ## <span style="color:red">Vulnerabilites and Exploits<span>
 
 - [Creating CVE-2021-44228 Log4j Vuln Labs](https://ahmetnuman.github.io/f5-bigip/cve-vulns/2021/12/12/CVE-2021-44228.html)
