@@ -6,17 +6,6 @@ layout: home
 
 ## <span style="color:red">Blue Team<span>
 
-**Hacked Web Server Analysis**
-- [Introduction to Hacked Web Server Analysis](https://ahmetnuman.github.io/blue-team/2022/11/25/introduction-to-hacker-web-server-analysis.html)
-- [Log Analysis on Web Servers](https://ahmetnuman.github.io/blue-team/2022/11/25/log-analyses-on-web-servers.html)
-- [Attacks on Web Servers](https://ahmetnuman.github.io/blue-team/2022/11/25/atacks-on-web-servers.html)
-- [Attacks Against Web Applications](https://ahmetnuman.github.io/blue-team/2022/11/25/attacks-against-web-applications.html)
-- [Vulnerabilities on Servers](https://ahmetnuman.github.io/blue-team/2022/11/25/Vulnerabilites-on-servers.html)
-- [Vulnerabilities in Programming Language](https://ahmetnuman.github.io/blue-team/2022/11/25/vulnerabilities-in-programming-language.html)
-- [Discovering the Web Shell](https://ahmetnuman.github.io/blue-team/2022/11/26/discovering-the-web-shell.html)
-- [Hacked Web Server Analysis Example](https://ahmetnuman.github.io/blue-team/2022/11/26/hacked-web-server-analysis-example.html)
-
-
 ## <span style="color:red">Citrix Netscaler<span>
 
 - [Netscaler Basic Networking 1](https://ahmetnuman.github.io/netscaler-adc/2022/11/21/Netscaler-Basic-Networking.html)
