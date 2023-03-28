@@ -6,18 +6,6 @@ layout: home
 
 ## <span style="color:red">Blue Team<span>
 
-**Web Attacks 101**
-
-- [Introduction to Web Attack 101]()
-- [Why Detecting Web Attacks Important]()
-- [OWASP]()
-- [How Web Applications Work]()
-- [Detecting SQL Injection Attacks]()
-- [Detecting Cross Site Scripting (XSS) Attacks]()
-- [Detecting Command Injection Attacks]()
-- [Detecting Insecure Direct Object Reference (IDOR) Attacks]()
-- [Detecting RFI & LFI Attacks]()
-
 **Hacked Web Server Analysis**
 - [Introduction to Hacked Web Server Analysis](https://ahmetnuman.github.io/blue-team/2022/11/25/introduction-to-hacker-web-server-analysis.html)
 - [Log Analysis on Web Servers](https://ahmetnuman.github.io/blue-team/2022/11/25/log-analyses-on-web-servers.html)
