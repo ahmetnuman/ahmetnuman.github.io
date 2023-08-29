@@ -8,6 +8,8 @@ layout: home
 
 - [Introduction-SQL Injection-Sensitive Data in Get Request](https://ahmetnuman.github.io/rest-api-pentest/2023/08/27/rest-api-pentest.html)
 - [Weak Authentication Token and IDOR](https://ahmetnuman.github.io/rest-api-pentest/2023/08/29/weak-auth-tokens-and-idor.html)
+- [Sensitive Data in Response (Password) and Clear Text Storage ](https://ahmetnuman.github.io/rest-api-pentest/2023/08/29/sensiteve-data-in-response.html)
+- [Reading API Documentation ](https://ahmetnuman.github.io/rest-api-pentest/2023/08/29/reading-api-documentation.html)
 
 ## <span style="color:red">Vulnerabilites and Exploits<span>
 
