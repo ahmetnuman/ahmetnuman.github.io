@@ -6,12 +6,12 @@ layout: home
 
 ## <span style="color:red">Rest Api Pentest Notes<span>
 
-- [Rest Api Pen Testing Notes](https://ahmetnuman.github.io/rest-api-pentest/2023/08/27/rest-api-pentest.html)
+- [Introduction-SQL Injection-Sensitive Data in Get Request](https://ahmetnuman.github.io/rest-api-pentest/2023/08/27/rest-api-pentest.html)
+- [Weak Authentication Token and IDOR](https://ahmetnuman.github.io/rest-api-pentest/2023/08/29/weak-auth-tokens-and-idor.html)
 
 ## <span style="color:red">Vulnerabilites and Exploits<span>
 
 - [Creating CVE-2021-44228 Log4j Vuln Labs](https://ahmetnuman.github.io/f5-bigip/cve-vulns/2021/12/12/CVE-2021-44228.html)
-
 
 ## <span style="color:red">High Availability of Various Vendors<span>
 
@@ -32,7 +32,6 @@ layout: home
 - [Docker Images](https://ahmetnuman.github.io/dockers/docker/2021/01/05/docker-images.html)
 - [Docker Images Lab](https://ahmetnuman.github.io/dockers/docker/2021/01/06/docker-images-lab.html)
 
-
 ## <span style="color:red">F5 LTM<span>
 
 - [Dynamic Ratio Load Balancing](https://ahmetnuman.github.io/f5-bigip/f5-ltm/2021/08/01/Dynamic-Ratio-Load-Balancing.html)
@@ -41,7 +40,6 @@ layout: home
 ## <span style="color:red">F5 APM<span>
 
 - [Configuring BIG-IP APM Access Policy Manager ](https://ahmetnuman.github.io/f5-bigip/f5-apm/2021/11/27/Configuring-BIGIP-APM-topics.html)
-
 
 ### <span style="color:red">F5-BigIP - Kubernetes Integration<span>
 
@@ -53,6 +51,7 @@ layout: home
 ---
 
 ## <span style="color:red">Suricata<span>
+
 1. [Installing Suricata on Ubuntu 18.04](https://ahmetnuman.github.io/suricata/suricata/2021/02/06/Installing-Suricata-on-Ubuntu.html)
 2. [Capture First Packet With Suricata](https://ahmetnuman.github.io/suricata/suricata/2021/02/06/Capture-First-Packet.html)
 3. [Installing Emerging Threats Rule](https://ahmetnuman.github.io/suricata/suricata/2021/02/07/Installing-Emerging-Threats-Rule.html)
@@ -81,6 +80,3 @@ layout: home
 14. [Security Policy](https://ahmetnuman.github.io/palo-alto-firewall/2021/02/27/Security-Policy.html)
 
 ---
-
-
-
